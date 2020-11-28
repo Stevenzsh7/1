@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="XznM@}p~I]pW:{EjL$P(" x="0" y="0"><statement name="HANDLER"><block type="SoundExpression_playUntilDone" id="QL:^NW=})aKlW:].;U/m"><field name="this">soundExpression.mysterious</field></block></statement></block><block type="device_forever" id="xD76ZV9JZ.+$9LJ2np#]" x="162" y="98"/></xml>
